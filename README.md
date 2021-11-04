@@ -1,2 +1,4 @@
 # gamingtime
-Official repository for the Gaming Time Minecraft texture pack
+funni minecraft texture pack
+
+Licensed under the GNU GPL 3.0
